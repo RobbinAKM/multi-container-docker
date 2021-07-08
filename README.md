@@ -9,6 +9,7 @@ Project infrastructures
 - Postgres (AWS) for database 
 - ElasticCache (AWS) for production caching 
 - Redis for development caching 
+- Travis CI for CI/CD pipeline 
 
 Project languages 
 - docker-compose 
